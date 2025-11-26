@@ -5,4 +5,4 @@ serve:
 	bundle exec jekyll serve
 
 publish: build
-	rsync -e ssh -havzP ./_site/ kyleniemeyer@cavejunction.dreamhost.com:/home/kyleniemeyer/wssci.us/meetings/s2024/
+	rsync -e ssh -havzP ./_site/ kyleniemeyer@pdx1-shared-a1-33.dreamhost.com:/home/kyleniemeyer/wssci.us/meetings/s2026/
