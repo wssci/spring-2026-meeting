@@ -1,42 +1,39 @@
-full_title: WSSCI 2024 Spring Technical Meeting
-short_title: WSSCI S2024
+full_title: WSSCI 2026 Spring Technical Meeting
+short_title: WSSCI S2026
 email: webmaster@wssci.us
 program_chair_email: bp@ucicl.uci.edu
 description: > # this means to ignore newlines until "baseurl:"
   Spring Technical Meeting of the Western States Section of The Combustion Institute
-location: Salt Lake City, UT, USA
-date: 4-5 March 2024
-program_link: ./assets/2024-WSSCI-Spring-Program-15-February.pdf
+location: Portland OR, USA
+date: 23-24 March 2026
+program_link: 
 
 logo_path: ./assets/images/WSSCI-Logo-web.png
 slideshow:
  - id: 0
-   image_path: ./assets/images/campus_overview_fall_2400x964.jpg
-   description: University of Utah
-   photographer_name:
-   photographer_link:
+   image_path: ./assets/images/portland-bridge.jpg
+   description: Tilikum Crossing bridge in Portland, Oregon
+   photographer_name: Ruvim Miksanskiy
+   photographer_link: https://www.pexels.com/photo/concrete-bridge-1438884/
    active: true
-#  - id: 1
-#    image_path: ./assets/images/csun_library.jpg
-#    description: Library at California State University, Northridge
-#    photographer_name:
-#    photographer_link:
-#    active: false
-  # - id: 1
-  #   image_path: ./assets/images/slideshow/image1.jpg
-  #   description: Huntington Library & Botanical Gardens - Pasadena, California
-  #   photographer_name: Chris Goldberg
-  #   photographer_link: https://www.flickr.com/photos/chrisgold/
-  # - id: 2
-  #   image_path: ./assets/images/slideshow/image2.jpg
-  #   description: California Science Center, Los Angeles
-  #   photographer_name: Fabio Achilli
-  #   photographer_link: https://www.flickr.com/photos/travelourplanet/
-  # - id: 3
-  #   image_path: ./assets/images/slideshow/image3.jpg
-  #   description: Image 17540 (USA/California/Los Angeles County/Pasadena/CalTech)
-  #   photographer_name: Vlad Butsky
-  #   photographer_link: https://www.flickr.com/photos/butsky/
+ - id: 1
+   image_path: ./assets/images/portland-sign.jpg
+   description: Portland White Stag sign
+   photographer_name: Zack Spear
+   photographer_link: https://commons.wikimedia.org/wiki/File:Zack_Spear_2015_(Unsplash).jpg
+   active: false
+ - id: 2
+   image_path: ./assets/images/portland-center.jpg
+   description: Historic Meier & Frank Building in Portland, home to OSU Portland Center
+   photographer_name: Oregon State University
+   photographer_link: https://www.flickr.com/photos/oregonstateuniversity/31739908977/in/photostream/
+   active: false
+ - id: 3
+   image_path: ./assets/images/portland-view.jpg
+   description: View of Mount Hood and Portland at sunset
+   photographer_name: Adam Blank
+   photographer_link: https://unsplash.com/photos/city-with-high-rise-buildings-near-mountain-during-sunset-Ff4BbI31Czg
+   active: false
   # - id: 4
   #   image_path: ./assets/images/slideshow/image4.jpg
   #   description: Campus of the California Institute of Technology
@@ -44,27 +41,27 @@ slideshow:
   #   photographer_link: https://www.flickr.com/photos/acordova/
 
 deadlines:
- - date: 2023-12-14
+ - date: 2025-12-1
    timezone: 11:59PM ET
-   text: Extended abstract submission opens
-   pass_due: True
- - date: 2024-02-06
+   text: Submissions and registration opens
+   pass_due: False
+ - date: 2026-02-05
    timezone: 11:59PM ET
    text: Extended abstract submission deadline
-   pass_due: True
- - date: 2024-02-07
-   timezone: 11:59PM ET
-   text: Extended abstract decision notification
-   pass_due: True
- - date: 2024-02-07
+   pass_due: False
+#  - date: 2024-02-07
+#    timezone: 11:59PM ET
+#    text: Extended abstract decision notification
+#    pass_due: False
+ - date: 2026-02-11
    timezone: 11:59PM ET
    text: Early registration deadline
-   pass_due: True
+   pass_due: False
 #  - date: 2023-09-15
 #    timezone: 11:59PM PT
 #    text: Student travel award deadline
 #    pass_due: True
- - date: 2024-02-29
+ - date: 2026-03-18
    timezone: 11:59PM ET
    text: Online registration deadline
    pass_due: False
@@ -82,7 +79,7 @@ deadlines:
 #    pass_due: False
 
 news:
-  - date: 2024-01-05
+  - date: 2025-11-26
     text: Website online
   # - date: 2023-08-16
   #   text: JPL tour and hotel information available
@@ -90,22 +87,22 @@ news:
   #   text: Extended abstract deadline extended
   # - date: 2023-08-29
   #   text: Student travel award information published
-  - date: 2024-02-16
-    text: Draft program published
+  # - date: 2024-02-16
+  #   text: Draft program published
 
 sponsors:
- - name: Univ. of Utah John and Marcia Price College of Engineering
-   url: https://www.price.utah.edu
-   logo_path: ./assets/images/sponsors/ENG_Logo_Price_Final_HEX.svg
-   level: sponsor
- - name: Univ. of Utah Department of Mechanical Engineering
-   url: https://www.mech.utah.edu
-   logo_path: ./assets/images/sponsors/ME_Logo_2023.svg
-   level: sponsor
- - name: Univ. of Utah Department of Chemical Engineering
-   url: https://www.che.utah.edu
-   logo_path: ./assets/images/sponsors/CHE_Logo_2023.svg
-   level: sponsor
+#  - name: Univ. of Utah John and Marcia Price College of Engineering
+#    url: https://www.price.utah.edu
+#    logo_path: ./assets/images/sponsors/ENG_Logo_Price_Final_HEX.svg
+#    level: sponsor
+#  - name: Univ. of Utah Department of Mechanical Engineering
+#    url: https://www.mech.utah.edu
+#    logo_path: ./assets/images/sponsors/ME_Logo_2023.svg
+#    level: sponsor
+#  - name: Univ. of Utah Department of Chemical Engineering
+#    url: https://www.che.utah.edu
+#    logo_path: ./assets/images/sponsors/CHE_Logo_2023.svg
+#    level: sponsor
 
 social_media:
   facebook_link:
@@ -118,9 +115,10 @@ program_chairs:
     email: bp@ucicl.uci.edu
 
 host_committee:
-  - name: Alex G. Novoselov
-    org: University of Utah
-    email: alex.novoselov@utah.edu 
+  - name: Kyle Niemeyer
+    org: Oregon State University
+    homepage: https://niemeyer-research-group.github.io
+    email: kyle.niemeyer@oregonstate.edu
 
 technical_program_committee:
   # put list of people on technical committee here
