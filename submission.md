@@ -4,7 +4,7 @@ layout: submission
 slide_id: 3
 ---
 
-#### Extended abstract submission opened on 2 December 2025
+#### Extended abstract submission opened on 1 December 2025
 
 Submit an extended abstract (least two pages long, up to five pages maximum, with at least one significant figure) through [The Combustion Institute website <i class="fa fa-external-link fa-fw" aria-hidden="true"></i>](https://members.combustioninstitute.org/members/proposals/propselect.php?orgcode=CMBI&prid=2018423).
 
