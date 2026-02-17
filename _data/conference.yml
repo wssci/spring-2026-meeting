@@ -91,14 +91,14 @@ news:
   #   text: Draft program published
 
 sponsors:
-#  - name: Univ. of Utah John and Marcia Price College of Engineering
-#    url: https://www.price.utah.edu
-#    logo_path: ./assets/images/sponsors/ENG_Logo_Price_Final_HEX.svg
-#    level: sponsor
-#  - name: Univ. of Utah Department of Mechanical Engineering
-#    url: https://www.mech.utah.edu
-#    logo_path: ./assets/images/sponsors/ME_Logo_2023.svg
-#    level: sponsor
+ - name: Oregon State University College of Engineering
+   url: https://engineering.oregonstate.edu/
+   logo_path: ./assets/images/COE-logo.png
+   level: sponsor
+ - name: School of Mechanical, Industrial, and Manufacturing Engineering
+   url: https://engineering.oregonstate.edu/MIME
+   logo_path: ./assets/images/OSU_COE_MIME.png
+   level: sponsor
 #  - name: Univ. of Utah Department of Chemical Engineering
 #    url: https://www.che.utah.edu
 #    logo_path: ./assets/images/sponsors/CHE_Logo_2023.svg
