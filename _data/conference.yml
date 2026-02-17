@@ -44,23 +44,27 @@ deadlines:
  - date: 2025-12-1
    timezone: 11:59PM ET
    text: Submissions and registration opens
-   pass_due: False
- - date: 2026-02-05
+   pass_due: True
+ - date: 2026-02-12
    timezone: 11:59PM ET
    text: Extended abstract submission deadline
-   pass_due: False
+   pass_due: True
 #  - date: 2024-02-07
 #    timezone: 11:59PM ET
 #    text: Extended abstract decision notification
 #    pass_due: False
- - date: 2026-02-11
+ - date: 2026-02-18
    timezone: 11:59PM ET
    text: Early registration deadline
    pass_due: False
-#  - date: 2023-09-15
-#    timezone: 11:59PM PT
-#    text: Student travel award deadline
-#    pass_due: True
+ - date: 2026-03-10
+   timezone: 11:59PM PDT
+   text: Last day to book discounted hotel room
+   pass_due: False
+ - date: 2026-03-20
+   timezone: 11:59PM PT
+   text: Student travel award deadline
+   pass_due: False
  - date: 2026-03-18
    timezone: 11:59PM ET
    text: Online registration deadline
@@ -68,10 +72,6 @@ deadlines:
 #  - date: 2019-09-13
 #    timezone: 11:59PM PDT
 #    text: Student travel award deadline
-#    pass_due: False
-#  - date: 2019-09-30
-#    timezone: 11:59PM PDT
-#    text: Last day to book discounted hotel room
 #    pass_due: False
 #  - date: 2019-10-09
 #    timezone: 11:59PM PDT
