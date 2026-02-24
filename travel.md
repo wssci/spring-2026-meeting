@@ -14,9 +14,10 @@ The conference will be held at Oregon State University's [Portland Center](https
 
 #### Accommodations
 
-A block of rooms at the [Courtyard by Marriott Portland City Center](https://www.marriott.com/event-reservations/reservation-link.mi?id=1765565260189&key=GRP&app=resvlink&_branch_match_id=1467184428436092754&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXTywo0MtNLCrKzC8p0UvOz9UvSi3OyczLtgdK2ALZZSCOWmaKraG5mampmamRmYGhhaVadmqlrXtQgFpdUWpaKlB3Xnp8UlF%2BeXFqka1zRlF%2BbioAT%2Fp5omAAAAA%3D),
+A block of rooms at the [Courtyard by Marriott Portland City Center](https://app.marriott.com/reslink?id=1765565260189&key=GRP&app=resvlink),
 located just a few block from the OSU Portland Center, is available at a discounted rate. 
 Rooms must be booked prior to March 10 to receive the discounted rate.
+Options include rooms with individual beds and two beds.
 
 
 #### Travel
