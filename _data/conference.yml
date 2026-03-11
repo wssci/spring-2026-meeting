@@ -60,7 +60,7 @@ deadlines:
  - date: 2026-03-10
    timezone: 11:59PM PDT
    text: Last day to book discounted hotel room
-   pass_due: False
+   pass_due: True
  - date: 2026-03-20
    timezone: 11:59PM PT
    text: Student travel award deadline
